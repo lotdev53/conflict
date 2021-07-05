@@ -1,2 +1,2 @@
 this is first 
-git edit
+git edit from my computer
